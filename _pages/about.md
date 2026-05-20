@@ -15,7 +15,7 @@ redirect_from:
 
 About Shiv (short bio):
 ======
-I am a PhD research student at IIT Gandhinagar with a keen interest in research and development. Lithium-ion batteries (LIBs) are something I'm very passionate about, especially the battery electrothermal-aging modelling and health-aware charging aspects. Presently, I am working on life extension of LIBs. As part of my ongoing effort to comprehend LIBs, I am performing multiple experiments on various LIBs and studying their degradations. I look forward to gain extensive hands-on experience in this field.
+He is a PhD research student at IIT Gandhinagar with a keen interest in research and development. Lithium-ion batteries (LIBs) are something he's very passionate about, especially the battery electrothermal-aging modelling and health-aware charging aspects. Presently, he is working on life extension of LIBs. As part of his ongoing effort to comprehend LIBs, he is involved in multiple experiments on various LIBs and studying their degradations. He looks forward to gain extensive hands-on experience in this field.
 
 Getting started
 ======
