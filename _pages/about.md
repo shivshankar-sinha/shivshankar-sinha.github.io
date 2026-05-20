@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-🙋 I am a 4th year PhD student in the depart of Electrical Engineering at Indian Institude of Technology (IIT) Gandhinagar.
+🙋 I am a 4th year PhD student in the department of Electrical Engineering at Indian Institude of Technology (IIT) Gandhinagar.
 
 🔬 My research interests include electric vehicle technilogies, energy storage devices, lithium-ion batteries, electrothermal-aging modeling, health-aware battery charging.
 
