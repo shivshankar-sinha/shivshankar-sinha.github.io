@@ -26,11 +26,13 @@ author:
   avatar           : "profile.png"
   name             : "Shiv Shankar Sinha"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Doctral Student in Department of Electrical Engineering"
   location         : "Gujarat, India"
-  employer         : "Red Brick University"
+  employer         : "IIT Gandhinagar"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "shivshankar.1649@gmail.com"
+  email            : "shiv.sinha@iitgn.ac.in"
+
 
   # Academic websites
   academia         : # URL
