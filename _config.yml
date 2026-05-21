@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "sss.jpg"
+  avatar           : "/images/sss.jpg"
   name             : "Shiv Shankar Sinha"
   pronouns         : # example: "she/her"  
   bio              : "Doctral Student in Department of Electrical Engineering"
