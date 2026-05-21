@@ -7,23 +7,25 @@ redirect_from:
   - /about.html
 ---
 
-🙋🏻‍♂️ I am a 4th year PhD student in the department of Electrical Engineering at Indian Institude of Technology (IIT) Gandhinagar.
+🙋🏻‍♂️ I am a 4th year PhD student in the department of Electrical Engineering at Indian Institude of Technology Gandhinagar.
 
-🔬 **My research interests:** Electric vehicle technilogies; Energy storage devices; Lithium-ion batteries (LIBs); Electrothermal-aging modeling; Health-aware battery charging.
+🔬 **My research interests:** Electric vehicle technologies; Energy storage devices; Lithium-ion batteries;  
 
-📚 I am currently working towards my 'PhD Thesis' in the field of **'Performance Optimization of Lithium-ion Batteries'**, where I am focusing on life extension of LIBs. 
+📚 I am currently working towards my 'PhD Thesis' in the field of **'Performance Optimization of Lithium-ion Batteries (LIBs)'**, where I am focusing on life extension of LIBs. 
 
 🎯 I am keen to dive deeper and am driven to contribute to the advancement of next-generation energy storage technologies while gaining extensive hands-on research experience in this field.
 
 Research Expertise:
 ------
 <ul>
-  <li>Battery Management Systems (BMS)</li>
-  <li>SOH and RUL Estimation</li>
-  <li>Electrothermal-Aging Modelling</li>
-  <li>Health-Aware Charging Strategies</li>
-  <li>Hybrid Energy Storage Systems (HESS)</li>
-  <li>Machine Learning for Battery Diagnostics</li>
+  <li>Diagnosis and prognosis of battery degradation</li>
+  <li>Lithium-ion battery internal state estimation</li>
+  <li>Electrothermal-aging modelling</li>
+  <li>Health-aware charging strategies</li>
+  <li>Design of experiments for battery characterization</li>
+  <li>Battery management system (BMS) functionalities</li>
+  <li>Hybrid energy storage systems (HESSs)</li>
+  <li>Machine learning for battery diagnostics</li>
 </ul>
 
 
