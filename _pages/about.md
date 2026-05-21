@@ -16,7 +16,7 @@ redirect_from:
 🎯 I am keen to dive deeper and am driven to contribute to the advancement of next-generation energy storage technologies while gaining extensive hands-on research experience in this field.
 
 Research Expertise:
-======
+------
 <ul>
   <li>Battery Management Systems (BMS)</li>
   <li>SOH and RUL Estimation</li>
