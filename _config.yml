@@ -28,7 +28,7 @@ author:
   avatar           : "/images/profile.jpg"
   name             : "Shiv Shankar Sinha"
   pronouns         : # example: "she/her"  
-  bio              : "Doctral Student in Department of Electrical Engineering"
+  bio              : "Doctoral Student in Department of Electrical Engineering"
   location         : "Gujarat, India"
   employer         : "IIT Gandhinagar"
   uri              : # URL
@@ -44,7 +44,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=sg3I2r8AAAAJ&hl=en&oi=ao"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/my-orcid?orcid=0009-0009-0703-6288"
+  orcid            : "https://orcid.org/0009-0009-0703-6288"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -73,7 +73,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/shiv-shankar-sinha/"
+  linkedin         : "shiv-shankar-sinha"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
