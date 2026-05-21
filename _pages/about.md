@@ -15,9 +15,16 @@ redirect_from:
 
 🎯 I am keen to dive deeper and am driven to contribute to the advancement of next-generation energy storage technologies while gaining extensive hands-on research experience in this field.
 
-About Shiv:
+Research Expertise:
 ======
-He is a PhD research student at IIT Gandhinagar with a keen interest in research and development. Lithium-ion batteries (LIBs) are something he's very passionate about, especially the battery electrothermal-aging modelling and health-aware charging aspects. Presently, he is working on life extension of LIBs. As part of his ongoing effort to comprehend LIBs, he is involved in multiple experiments on various LIBs and studying their degradations. He looks forward to gain extensive hands-on experience in this field.
+<ul>
+  <li>Battery Management Systems (BMS)</li>
+  <li>SOH and RUL Estimation</li>
+  <li>Electrothermal-Aging Modelling</li>
+  <li>Health-Aware Charging Strategies</li>
+  <li>Hybrid Energy Storage Systems (HESS)</li>
+  <li>Machine Learning for Battery Diagnostics</li>
+</ul>
 
 
 
