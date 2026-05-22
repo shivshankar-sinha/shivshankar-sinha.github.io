@@ -41,17 +41,3 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
-/* Circular profile image */
-.author__avatar img {
-  border-radius: 50% !important;
-  width: 200px !important;
-  height: 200px !important;
-  object-fit: cover !important;
-}
-
-/* Fix avatar container size so sidebar links aren't pushed down */
-.author__avatar {
-  width: 200px !important;
-  height: 200px !important;
-  margin: 0 auto 20px auto !important;
-}
