@@ -90,4 +90,12 @@ hr {
     border-top: 2px dashed #d6d6d6;
     margin: 25px 0;
 }
+/* Remove top gap below navbar */
+.page__content {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
 
+h1.page__title {
+  display: none !important;
+}
