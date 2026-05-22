@@ -43,9 +43,11 @@
 ;
 .author__avatar img {
     width: 220px;
-    height: 260px;
-    border-radius: 20px;
+    height: 220px;
     object-fit: cover;
+    object-position: center top;
+    border-radius: 20px;
     border: 3px solid #e5e5e5;
     box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+    image-rendering: auto;
 }
