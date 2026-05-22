@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-🙋🏻‍♂️ I am a 4th year PhD student in the department of Electrical Engineering at Indian Institude of Technology Gandhinagar.
+I am a 4th year PhD student in the department of Electrical Engineering at Indian Institude of Technology Gandhinagar.
 
 🔬 **My research interests:** Electric vehicle technologies; Energy storage devices; Lithium-ion batteries.  
 
