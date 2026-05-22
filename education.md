@@ -19,7 +19,7 @@ author_profile: true
     </div>
 
     <ul>
-      <li>Present CPI: <strong>9.87/10</strong></li>
+      <li>Present CPI: <strong>9.88/10</strong></li>
       <li>Research Focus: Lithium-ion Batteries, EV Energy Storage, Battery Diagnostics</li>
     </ul>
   </div>
