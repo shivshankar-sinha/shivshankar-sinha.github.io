@@ -41,7 +41,7 @@ flex-wrap: wrap;
 .research-image {
 flex: 3;
 min-width: 500px;
-text-align: center;
+text-align: right;
 }
 
 .research-image img {
