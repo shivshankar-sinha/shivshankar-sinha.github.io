@@ -9,7 +9,7 @@ author_profile: false
 .research-section {
 display: flex;
 justify-content: space-between;
-align-items: center;
+align-items: left;
 gap: 40px;
 margin-bottom: 60px;
 padding-bottom: 40px;
