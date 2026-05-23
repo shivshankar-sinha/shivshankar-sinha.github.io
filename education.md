@@ -1,13 +1,13 @@
 ---
 layout: single
-title: "Academic Background"
+title: ""
 permalink: /education/
 author_profile: true
 ---
 
 <section id="education">
 
-
+  <h1 class="section-title">Academic Background</h1>
 
   <div class="edu-item">
     <h2>PhD in Electrical Engineering</h2>
