@@ -43,13 +43,13 @@ author_profile: false
 <div class="research-section">
 
     <div class="research-text">
-        <h2>Battery Diagnostics & Prognostics</h2>
+        <h2>Overview: How do I conduct my research</h2>
 
         <ul>
-            <li>State-of-health estimation using machine learning techniques</li>
-            <li>Data-driven battery degradation analysis</li>
-            <li>Partial charging based health prediction</li>
-            <li>Feature extraction and optimization methods</li>
+            <li>Study signature behaviors of various degradation mechanisms</li>
+            <li>Identify a target: one perticular degradation</li>
+            <li>Determine the detection approach using electrical parameters</li>
+            <li>Mitigation of degration through novel charging strategies</li>
         </ul>
     </div>
 
