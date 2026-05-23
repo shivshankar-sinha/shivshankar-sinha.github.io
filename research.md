@@ -54,10 +54,10 @@ object-fit: contain;
 }
 </style>
 
-<div style="display: flex; align-items: flex-start; gap: 35px; margin-top: 20px;">
+<table style="width:100%; border:none;">
+<tr style="border:none;">
 
-<!-- LEFT SIDE : BULLETS -->
-<div style="flex: 0.9; min-width: 320px;">
+<td style="width:32%; vertical-align:top; border:none; padding-right:25px;">
 
 ## Battery Diagnostics & Prognostics
 
@@ -69,17 +69,17 @@ object-fit: contain;
 
 - Feature extraction and optimization methods
 
-</div>
+</td>
 
-<!-- RIGHT SIDE : IMAGE -->
-<div style="flex: 1.6;">
+<td style="width:68%; vertical-align:top; border:none;">
 
 <img src="/images/research/battery_performance.png" 
-     style="width: 100%; min-width: 700px; border-radius: 6px;">
+     style="width:100%; max-width:900px; min-width:700px; display:block;">
 
-</div>
+</td>
 
-</div>
+</tr>
+</table>
 
 <div class="research-section">
 
