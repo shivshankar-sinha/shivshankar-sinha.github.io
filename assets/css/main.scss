@@ -41,6 +41,7 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+/* Profile Image section */
 .author__avatar img {
     width: 220px;
     height: 220px;
@@ -51,6 +52,7 @@
     box-shadow: 0 4px 12px rgba(0,0,0,0.15);
     image-rendering: auto;
 }
+/* Education section */
 .edu-item {
     margin-bottom: 25px;
 }
@@ -89,6 +91,15 @@ hr {
     border: none;
     border-top: 2px dashed #d6d6d6;
     margin: 25px 0;
+}
+/* Research section */
+.research-image img {
+    width: 100%;
+    max-width: 550px;
+    height: 340px;
+    border-radius: 20px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+    object-fit: cover;
 }
 
 
