@@ -6,51 +6,37 @@ author_profile: false
 ---
 
 <style>
-research-section {
-    display: flex;
-    justify-content: space-between;
+.research-section {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
     align-items: center;
     gap: 40px;
     margin-bottom: 60px;
     padding-bottom: 40px;
     border-bottom: 2px dashed #d8d8d8;
-    flex-wrap: wrap;
 }
-
-.research-text {
-    flex: 1;
-    min-width: 300px;
-}
-
-
 .research-text h2 {
-    font-size: 32px;
+    font-size: 28px;
     margin-bottom: 15px;
     font-weight: 700;
-} 
-
+}
 .research-text ul {
     padding-left: 25px;
 }
-
 .research-text li {
-    font-size: 18px;
+    font-size: 17px;
     line-height: 1.8;
-    margin-bottom: 10px;
+    margin-bottom: 8px;
 }
-
 .research-image {
-    flex: 3;
-    min-width: 400px;
     text-align: center;
 }
-
 .research-image img {
-width: 100%;
-max-width: 80%;
-border-radius: 0px;
-box-shadow: 0 4px 12px rgba(0,0,0,0.15);
-object-fit: contain;
+    width: 100%;
+    max-width: 100%;
+    border-radius: 0px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+    object-fit: contain;
 }
 </style>
 
