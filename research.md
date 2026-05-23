@@ -41,7 +41,7 @@ research-section {
 
 .research-image {
     flex: 3;
-    min-width: 500px;
+    min-width: 400px;
     text-align: center;
 }
 
