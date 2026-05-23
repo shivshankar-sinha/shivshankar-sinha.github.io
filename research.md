@@ -7,13 +7,14 @@ author_profile: false
 
 <style>
 .research-section {
-display: grid;
-grid-template-columns: 1fr 2fr;
+display: flex;
+justify-content: space-between;
 align-items: center;
 gap: 40px;
 margin-bottom: 60px;
 padding-bottom: 40px;
 border-bottom: 2px dashed #d8d8d8;
+flex-wrap: wrap;
 }
 
 .research-text {
@@ -38,6 +39,8 @@ border-bottom: 2px dashed #d8d8d8;
 }
 
 .research-image {
+flex: 3;
+min-width: 500px;
 text-align: center;
 }
 
