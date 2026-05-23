@@ -52,7 +52,6 @@ border-radius: 0px;
 box-shadow: 0 4px 12px rgba(0,0,0,0.15);
 object-fit: contain;
 }
-  
 </style>
 
 <div class="research-section">
