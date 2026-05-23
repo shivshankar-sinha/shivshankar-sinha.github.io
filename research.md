@@ -17,7 +17,7 @@ author_profile: false
 }
 
 .research-text {
-    width: 40%;
+    min-width: 380px;
 }
 
 .research-text h2 {
@@ -37,7 +37,7 @@ author_profile: false
 }
 
 .research-image {
-    width: 60%;
+    flex: 1;
     text-align: center;
 }
 
