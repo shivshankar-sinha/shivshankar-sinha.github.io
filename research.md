@@ -26,7 +26,7 @@ author_profile: true
     font-size: 32px;
     margin-bottom: 15px;
     font-weight: 700;
-}
+} 
 
 .research-text ul {
     padding-left: 25px;
