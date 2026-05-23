@@ -67,7 +67,7 @@ author_profile: true
     </div>
 
     <div class="research-image">
-        <img src="https://picsum.photos/500/320?random=1">
+        <img src="https://shivshankar-sinha.github.io/images/Shiv_slide_updated.jpg">
     </div>
 
 </div>
