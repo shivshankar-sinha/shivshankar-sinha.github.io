@@ -90,4 +90,14 @@ hr {
     border-top: 2px dashed #d6d6d6;
     margin: 25px 0;
 }
+/* Reduce Academic Background title size and spacing */
+.page__title {
+  font-size: 1.5em !important;
+  margin-bottom: 5px !important;
+  padding-bottom: 0 !important;
+}
+
+.page__content h2:first-of-type {
+  margin-top: 10px !important;
+}
 
