@@ -7,18 +7,21 @@ author_profile: false
 
 <style>
 .research-section {
-    display: grid;
-    grid-template-columns: 1fr 1.2fr;
+    display: flex;
+    justify-content: space-between;
     align-items: center;
-    gap: 50px;
-    margin-bottom: 70px;
+    gap: 40px;
+    margin-bottom: 60px;
     padding-bottom: 40px;
     border-bottom: 2px dashed #d8d8d8;
+    flex-wrap: wrap;
 }
 
 .research-text {
-    width: 100%;
+    flex: 1;
+    min-width: 300px;
 }
+
 
 .research-text h2 {
     font-size: 32px;
@@ -37,13 +40,14 @@ author_profile: false
 }
 
 .research-image {
-    width: 100%;
-    text-align: center;
+flex: 3;
+min-width: 500px;
+text-align: center;
 }
 
 .research-image img {
 width: 100%;
-max-width: 100%;
+max-width: 80%;
 border-radius: 0px;
 box-shadow: 0 4px 12px rgba(0,0,0,0.15);
 object-fit: contain;
