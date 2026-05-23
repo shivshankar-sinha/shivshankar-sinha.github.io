@@ -47,7 +47,7 @@ text-align: center;
 
 .research-image img {
 width: 100%;
-max-width: 50%;
+max-width: 40%;
 border-radius: 0px;
 box-shadow: 0 4px 12px rgba(0,0,0,0.15);
 object-fit: contain;
