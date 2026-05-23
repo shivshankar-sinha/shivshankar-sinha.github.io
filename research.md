@@ -39,14 +39,14 @@ author_profile: false
 }
 
 .research-image {
-    flex: 1;
-    min-width: 300px;
-    text-align: center;
+flex: 2;
+min-width: 400px;
+text-align: center;
 }
 
 .research-image img {
 width: 100%;
-max-width: 600px;
+max-width: 900px;
 border-radius: 0px;
 box-shadow: 0 4px 12px rgba(0,0,0,0.15);
 object-fit: contain;
