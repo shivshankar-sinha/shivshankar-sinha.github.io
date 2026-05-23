@@ -8,55 +8,54 @@ author_profile: false
 <style>
 .research-section {
     display: flex;
-    justify-content: space-between;
     align-items: center;
-    gap: 40px;
-    margin-bottom: 60px;
-    padding-bottom: 40px;
+    justify-content: space-between;
+    gap: 60px;
+    margin-bottom: 80px;
+    padding-bottom: 50px;
     border-bottom: 2px dashed #d8d8d8;
-    flex-wrap: wrap;
 }
 
 .research-text {
-    flex: 1;
-    min-width: 300px;
+    width: 40%;
 }
-
 
 .research-text h2 {
     font-size: 32px;
-    margin-bottom: 15px;
+    margin-bottom: 20px;
     font-weight: 700;
-} 
+}
 
 .research-text ul {
     padding-left: 25px;
 }
 
 .research-text li {
-    font-size: 18px;
-    line-height: 1.8;
-    margin-bottom: 10px;
+    font-size: 20px;
+    line-height: 1.9;
+    margin-bottom: 12px;
 }
 
 .research-image {
-    flex: 3;
-    min-width: 500px;
+    width: 60%;
     text-align: center;
 }
 
 .research-image img {
-width: 100%;
-max-width: 100%;
-border-radius: 0px;
-box-shadow: 0 4px 12px rgba(0,0,0,0.15);
-object-fit: contain;
+    width: 100%;
+    height: auto;
+    border-radius: 18px;
+    box-shadow: 0 4px 14px rgba(0,0,0,0.15);
+    object-fit: contain;
+    background: white;
+    padding: 10px;
 }
 </style>
 
 <div class="research-section">
 
     <div class="research-text">
+
         <h2>Battery Diagnostics & Prognostics</h2>
 
         <ul>
@@ -65,10 +64,13 @@ object-fit: contain;
             <li>Partial charging based health prediction</li>
             <li>Feature extraction and optimization methods</li>
         </ul>
+
     </div>
 
     <div class="research-image">
+
         <img src="https://shivshankar-sinha.github.io/images/Shiv_slide_updated.jpg">
+
     </div>
 
 </div>
