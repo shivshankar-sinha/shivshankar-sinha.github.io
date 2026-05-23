@@ -37,6 +37,7 @@ author_profile: true
 
     <ul>
       <li>Obtained CGPA: <strong>9.64/10</strong></li>
+      <li>Highlight: Highest CGPA holder; 
     </ul>
   </div>
 
@@ -104,4 +105,4 @@ hr {
     border-top: 2px dashed #d3d3d3;
     margin: 30px 0;
 }
-</style>
+
