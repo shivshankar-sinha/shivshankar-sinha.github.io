@@ -73,7 +73,7 @@ object-fit: contain;
 
 <td style="width:68%; vertical-align:top; border:none;">
 
-<img src="/images/research/battery_performance.png" 
+<img src="https://shivshankar-sinha.github.io/images/Shiv_slide_updated.jpg" 
      style="width:100%; max-width:900px; min-width:700px; display:block;">
 
 </td>
