@@ -7,19 +7,17 @@ author_profile: false
 
 <style>
 .research-section {
-display: flex;
-justify-content: space-between;
-align-items: left;
-gap: 40px;
-margin-bottom: 60px;
-padding-bottom: 40px;
-border-bottom: 2px dashed #d8d8d8;
-flex-wrap: wrap;
+    display: grid;
+    grid-template-columns: 1fr 1.2fr;
+    align-items: center;
+    gap: 50px;
+    margin-bottom: 70px;
+    padding-bottom: 40px;
+    border-bottom: 2px dashed #d8d8d8;
 }
 
 .research-text {
-    flex: 1;
-    min-width: 300px;
+    width: 100%;
 }
 
 .research-text h2 {
@@ -39,9 +37,8 @@ flex-wrap: wrap;
 }
 
 .research-image {
-flex: 3;
-min-width: 500px;
-text-align: right;
+    width: 100%;
+    text-align: center;
 }
 
 .research-image img {
