@@ -54,6 +54,7 @@ author_profile: false
 
     <ul>
       <li>Obtained CGPA: <strong>7.91/10</strong></li>
+      <li>Highlight: Organization of 'Techno-tech Fests'; Winner of inter-department sports tournament</li>
     </ul>
   </div>
 
