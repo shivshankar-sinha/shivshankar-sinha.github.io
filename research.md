@@ -54,32 +54,25 @@ object-fit: contain;
 }
 </style>
 
-<table style="width:100%; border:none;">
-<tr style="border:none;">
+<div class="research-section">
 
-<td style="width:32%; vertical-align:top; border:none; padding-right:25px;">
+    <div class="research-text">
+        <h2>Battery Diagnostics & Prognostics</h2>
 
-## Battery Diagnostics & Prognostics
+        <ul>
+            <li>State-of-health estimation using machine learning techniques</li>
+            <li>Data-driven battery degradation analysis</li>
+            <li>Partial charging based health prediction</li>
+            <li>Feature extraction and optimization methods</li>
+        </ul>
+    </div>
 
-- State-of-health estimation using machine learning techniques
+    <div class="research-image">
+        <img src="https://shivshankar-sinha.github.io/images/Shiv_slide_updated.jpg">
+    </div>
 
-- Data-driven battery degradation analysis
+</div>
 
-- Partial charging based health prediction
-
-- Feature extraction and optimization methods
-
-</td>
-
-<td style="width:68%; vertical-align:top; border:none;">
-
-<img src="https://shivshankar-sinha.github.io/images/Shiv_slide_updated.jpg" 
-     style="width:100%; max-width:900px; min-width:700px; display:block;">
-
-</td>
-
-</tr>
-</table>
 
 <div class="research-section">
 
