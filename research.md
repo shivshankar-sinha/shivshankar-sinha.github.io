@@ -41,7 +41,7 @@ author_profile: false
 
 .research-image {
     flex: 3;
-    min-width: 500px;
+    min-width: 300px;
     text-align: center;
 }
 
