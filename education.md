@@ -37,7 +37,7 @@ author_profile: false
 
     <ul>
       <li>Obtained CGPA: <strong>9.64/10</strong></li>
-      <li>Highlight: Highest CGPA holder; 
+      <li>Highlight: Highest CGPA Holder – EIE-2022 Batch</li> 
     </ul>
   </div>
 
