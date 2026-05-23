@@ -100,4 +100,21 @@ hr {
   box-shadow: 0 4px 12px rgba(0,0,0,0.15);
   object-fit: contain;
 }
+/* =========================
+   Research Page Only Layout
+========================= */
+
+body.research-page .sidebar {
+  display: none;
+}
+
+body.research-page .page {
+  width: 100%;
+  max-width: 1200px;
+  padding-right: 2rem;
+}
+
+body.research-page .page__inner-wrap {
+  max-width: 100%;
+}
 
