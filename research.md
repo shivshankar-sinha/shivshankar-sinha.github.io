@@ -45,11 +45,11 @@ author_profile: false
 }
 
 .research-image img {
-    width: 100%;
-    max-width: 420px;
-    border-radius: 20px;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
-    object-fit: cover;
+width: 100%;
+max-width: 600px;
+border-radius: 0px;
+box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+object-fit: contain;
 }
 </style>
 
