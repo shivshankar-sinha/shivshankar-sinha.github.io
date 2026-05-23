@@ -1,6 +1,6 @@
 ---
 layout: single
-title: ""
+title: "Academic Background"
 permalink: /education/
 author_profile: true
 ---
