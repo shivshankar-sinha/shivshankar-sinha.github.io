@@ -6,8 +6,7 @@ permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper involves the developement of a novel coupled electrothermal model.'
 date: 2024-08-19
 venue: 'IEEE Transactions on Consumer Electronics'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
+slidesurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10638771'
 paperurl: 'https://academicpages.github.io/files/paper1.pdf'
 bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
