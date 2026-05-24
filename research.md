@@ -49,7 +49,7 @@ author_profile: false
             <li>Study signature behaviors of various degradation mechanisms</li>
             <li>Identify a target: One perticular degradation</li>
             <li>Determine the detection approach using electrical parameters</li>
-            <li>Mitigation of degration through novel charging strategies</li>
+            <li>Mitigation of degradation through novel charging strategies</li>
         </ul>
     </div>
 
