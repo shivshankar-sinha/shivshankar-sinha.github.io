@@ -11,14 +11,14 @@ sections:
       subtitle: Feel free to reach out for research collaborations, academic discussions, internships, or project-related queries.
 
       # Contact (edit or remove options as needed)
-      email: your_email@domain.com
+      email: shiv.sinha@iitgn.ac.in
       phone: "+91 XXXXX XXXXX"
 
       address:
-        street: "Your Department / Lab Name"
-        city: "IIT Gandhinagar"
+        street: "Smart Power Electronics Laboratory, Department of Electrical Engineering"
+        city: "Indian Institute of Technology Gandhinagar"
         region: "Gujarat"
-        postcode: "382055"
+        postcode: "382355"
         country: "India"
         country_code: "IN"
 
@@ -28,21 +28,13 @@ sections:
         - "Wednesday 14:00 to 17:00"
 
       # Directions
-      directions: "Department of Electrical Engineering, IIT Gandhinagar Campus."
-
-      # Appointment links
-      appointment_url: "https://calendly.com/your-link"
+      directions: "AB13/305, Department of Electrical Engineering, IIT Gandhinagar Campus."
 
       # Automatically link email and phone
       autolink: true
 
       # Email form provider
       email_form: 2
-
-      # Coordinates for map
-      coordinates:
-        latitude: "23.2156"
-        longitude: "72.6369"
 
       # Map settings
       map:
