@@ -3,7 +3,7 @@ title: "High-accuracy lithium-ion battery state of health estimation using limit
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
+excerpt: 'This paper offers a lightweight feature extraction-based online health estmation approach using partial charging data.'
 date: 2026-01-31
 venue: 'IEEE 10th International Power Electronics Conference, IPEC-Nagasaki 2026-ECCE Asia'
 ---
