@@ -28,7 +28,7 @@ Serve as a <b>Teaching Assistant</b> for core and advanced courses including Ele
 </li>
 
 <li>
-Act as a <b>Projrct Assistant</b> for mentoring and guiding the undergraduate students in their research projects.
+Act as a <b>Project Assistant</b> for mentoring and guiding the undergraduate students in their research projects.
 </li>
 
 <li>
@@ -61,10 +61,6 @@ Served as a <b>Teaching Assistant</b>, contributing to: (a) laboratory courses i
 
 <li>
 My responsibilities included teaching assigned topics to bachelor's students, demonstrating complete experiments, and preparing question papers & assignments.
-</li>
-
-<li>
-Contributed to departmental academic activities and student mentoring initiatives.
 </li>
 
 <li>
