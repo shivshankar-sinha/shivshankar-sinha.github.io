@@ -24,15 +24,15 @@ Jan 2023 – Present
 <ul style="margin-top: 15px; line-height: 1.9;">
 
 <li>
-Serving as a Teaching Assistant for core and advanced courses including Electric Vehicle Technology, Smart Renewable Energy Systems, and Advanced Transportation Electrification Technology.
+Serve as a <b>Teaching Assistant<b> for core and advanced courses including Electric Vehicle Technology, Smart Renewable Energy Systems, and Advanced Transportation Electrification Technology.
 </li>
 
 <li>
-Selected as a <b>Graduate Teaching Fellow (GTF)</b> for the Power Electronics course (Aug 2024 – Nov 2024), involving independent lecture delivery, tutorial design, assessment preparation, and mentoring of undergraduate students.
+Act as a <b>Projrct Assistant<b> for mentoring and guiding the undergraduate students in their research projects.
 </li>
 
 <li>
-Conducted laboratory demonstrations, technical evaluations, and academic support sessions for undergraduate engineering students.
+Selected as a <b>Graduate Teaching Fellow (GTF)</b> for Power Electronics course (Aug 2024 – Nov 2024), involving independent lecture delivery, tutorial design, assessment preparation, and laboratory demonstrations.
 </li>
 
 </ul>
