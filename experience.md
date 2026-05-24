@@ -24,11 +24,11 @@ Jan 2023 – Present
 <ul style="margin-top: 15px; line-height: 1.9;">
 
 <li>
-Serve as a <b>Teaching Assistant<b> for core and advanced courses including Electric Vehicle Technology, Smart Renewable Energy Systems, and Advanced Transportation Electrification Technology.
+Serve as a <b>Teaching Assistant</b> for core and advanced courses including Electric Vehicle Technology, Smart Renewable Energy Systems, and Advanced Transportation Electrification Technology.
 </li>
 
 <li>
-Act as a <b>Projrct Assistant<b> for mentoring and guiding the undergraduate students in their research projects.
+Act as a <b>Projrct Assistant</b> for mentoring and guiding the undergraduate students in their research projects.
 </li>
 
 <li>
@@ -48,7 +48,7 @@ Teaching Assistant & Departmental Library In-charge
 </h2>
 
 <p style="font-size: 1.05rem; margin-bottom: 15px;">
-<b>National Institute of Technology Silchar<b>  
+<b>National Institute of Technology Silchar</b>  
 <br>
 Sep 2020 – May 2022
 </p>
