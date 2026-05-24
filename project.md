@@ -54,13 +54,17 @@ To realize the practicality of limited data and develop a lightweight battery st
 </li>
 
 <li>
-To realize the practicality of limited data and develop a lightweight battery state of health estimation technique. 
+ Developement of an improved hybrid energy storage system: To address the challenges of battery-supercapacitor hybridization.
 </li>
 
 <li>
-A review: Grey wolf optimization (GWO) technique; Comparison between the GWO and particle swarm optimization techniques.
+Development of an experimentally-efficient methodology for the identification of entropy change in lithium-ion batteries.
+</li>
+
+<li>
+A review: Grey wolf optimization (GWO) technique; Comparison between GWO and particle swarm optimization (PSO) techniques.
 </li>
 
 </ul>
-
+ 
 </div>
