@@ -40,4 +40,5 @@ Monday – Saturday
 10:00 AM – 8:00 PM IST
 
 ---
-_Last updated: May 2026_
+© 2026 Shiv Shankar Sinha | IIT Gandhinagar <br>
+  Last updated: {{ site.time | date: "%B %Y" }}
