@@ -1,46 +1,58 @@
 ---
+layout: archive
 title: "Contact"
-date: 2026-01-01
-type: landing
+permalink: /contact/
+author_profile: true
+---
 
-sections:
-  - block: contact
-    id: contact
-    content:
-      title: Contact Me
-      subtitle: Feel free to reach out for research collaborations, academic discussions, internships, or project-related queries.
+## Get in Touch
 
-      # Contact (edit or remove options as needed)
-      email: shiv.sinha@iitgn.ac.in
-      phone: "+91 XXXXX XXXXX"
+I am sincerely open to academic discussions, research collaborations, industrial projects, and opportunities related to:
 
-      address:
-        street: "Smart Power Electronics Laboratory, Department of Electrical Engineering"
-        city: "Indian Institute of Technology Gandhinagar"
-        region: "Gujarat"
-        postcode: "382355"
-        country: "India"
-        country_code: "IN"
+- Battery Management Systems (BMS)
+- Lithium-ion Battery Diagnostics
+- State of Health (SOH) Estimation
+- Machine Learning Applications in Energy Systems
+- Electric Vehicle Battery Analytics
+- Data-driven Prognostics and Health Management (PHM)
 
-      # Office hours
-      office_hours:
-        - "Monday 10:00 to 13:00"
-        - "Wednesday 14:00 to 17:00"
+Feel free to contact me through the following channels.
 
-      # Directions
-      directions: "AB13/305, Department of Electrical Engineering, IIT Gandhinagar Campus."
+---
 
-      # Automatically link email and phone
-      autolink: true
+## Contact Information
 
-      # Email form provider
-      email_form: 2
+📧 **Email:**  
+shiv.sinha@iitgn.ac.in
 
-      # Map settings
-      map:
-        provider: "google"
-        zoom: 15
+📍 **Office Address:**  
+Smart Power Electronics Laboratory  
+Department of Electrical Engineering  
+Indian Institute of Technology Gandhinagar   
+Gujarat - 382055  
+India
 
-    design:
-      columns: "2"
+☎️ **Phone:**  
++91-XXXXXXXXXX
+
+🕒 **Availability:**  
+Monday – Friday  
+10:00 AM – 6:00 PM IST
+
+---
+
+## Collaboration & Research Interests
+
+I am particularly interested in collaborative research involving:
+
+- AI/ML for Battery Health Estimation
+- Fast Charging Optimization
+- Physics-informed Machine Learning
+- Digital Twin for Batteries
+- Remaining Useful Life (RUL) Prediction
+- EV Battery Safety and Diagnostics
+- Electrochemical Modeling
+
+If your work aligns with these domains, feel free to reach out.
+
 ---
