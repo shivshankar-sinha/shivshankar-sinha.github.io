@@ -56,11 +56,11 @@ Sep 2020 – May 2022
 <ul style="line-height: 1.9;">
 
 <li>
-Assisted in laboratory courses and facilitated effective communication between faculty members and students.
+Served as a <b>Teaching Assistant</b>, contributing to: (a) laboratory courses in Power Electronics, Control Systems, Measurement, and Microprocessors & Microcontrollers; and (b) theoretical course in Optimization Methods for Engineering.
 </li>
 
 <li>
-Supported experimental setup development, laboratory management, and technical documentation activities.
+My responsibilities included teaching assigned topics to bachelor's students, demonstrating complete experiments, and preparing question papers & assignments.
 </li>
 
 <li>
