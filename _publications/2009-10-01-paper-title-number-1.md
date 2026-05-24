@@ -3,7 +3,7 @@ title: "Improved coupled electrothermal model of lithium-ion battery for accurat
 collection: publications
 category: manuscripts
 permalink: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10638771'
-excerpt: 'This paper involves the developement of a coupled electrothermal model, where a novel thres-state thermal model is proposed to capture battery's thermal dynamics in high current applications.'
+excerpt: 'This paper involves the developement of a coupled electrothermal model, where a novel thres-state thermal model is proposed to capture battery thermal dynamics in high current applications.'
 date: 2024-08-19
 venue: 'IEEE Transactions on Consumer Electronics'
 ---
