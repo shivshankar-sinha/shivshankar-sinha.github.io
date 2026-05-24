@@ -44,11 +44,11 @@ Selected as a <b>Graduate Teaching Fellow (GTF)</b> for Power Electronics course
 <div style="margin-top: 40px; margin-bottom: 45px;">
 
 <h2 style="margin-bottom: 5px;">
-National Institute of Technology Silchar
+Teaching Assistant & Departmental Library In-charge
 </h2>
 
 <p style="font-size: 1.05rem; margin-bottom: 15px;">
-Research Scholar & Teaching Assistant  
+<b>National Institute of Technology Silchar<b>  
 <br>
 Sep 2020 – May 2022
 </p>
