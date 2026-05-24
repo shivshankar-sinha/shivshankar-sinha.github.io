@@ -23,7 +23,7 @@ Ongoing Project
 <ul style="margin-top: 15px; line-height: 1.9;">
 
 <li>
-Mission for Advancement in High-impact Areas (MAHA) - EV uner "Anusandhan National Research Foundation (ANRF)" project.
+Mission for Advancement in High-impact Areas (MAHA) - EV under "Anusandhan National Research Foundation (ANRF)" project.
 </li>
 
 <li>
