@@ -23,7 +23,11 @@ Ongoing Project
 <ul style="margin-top: 15px; line-height: 1.9;">
 
 <li>
-Serve as a <b>Teaching Assistant</b> for core and advanced courses including Electric Vehicle Technology, Smart Renewable Energy Systems, and Advanced Transportation Electrification Technology.
+Mission for Advancement in High-impact Areas (MAHA) - EV uner "Anusandhan National Research Foundation (ANRF)" project.
+</li>
+
+<li>
+My responsibility: Extensive lithium-ion battery data collection; Life extension techniques for batteries.
 </li>
 
 </ul>
@@ -46,7 +50,15 @@ Completed Projects
 <ul style="line-height: 1.9;">
 
 <li>
-Served as a <b>Teaching Assistant</b>, contributing to: (a) laboratory courses in Power Electronics, Control Systems, Measurement, and Microprocessors & Microcontrollers; and (b) theoretical course in Optimization Methods for Engineering.
+To realize the practicality of limited data and develop a lightweight battery state of health estimation technique. 
+</li>
+
+<li>
+To realize the practicality of limited data and develop a lightweight battery state of health estimation technique. 
+</li>
+
+<li>
+A review: Grey wolf optimization (GWO) technique; Comparison between the GWO and particle swarm optimization techniques.
 </li>
 
 </ul>
