@@ -9,13 +9,13 @@ author_profile: true
 
 I am sincerely open to academic discussions, research collaborations, industrial projects, and opportunities related to:
 
-- Battery Management Systems (BMS)
-- Lithium-ion Battery Diagnostics
-- State of Health (SOH) Estimation
-- Machine Learning Applications in Energy Systems
-- Electric Vehicle Battery Analytics
-- Data-driven Prognostics and Health Management (PHM)
-
+- Battery health-aware and fast charging technique
+- Battery management systems (BMSs)
+- Battery internal state estimation
+- EV Battery safety and diagnostics
+- Battery remaining useful life (RUL) prediction
+- Machine learning applications in energy storage
+  
 Feel free to contact me through the following channels.
 
 ---
@@ -23,36 +23,21 @@ Feel free to contact me through the following channels.
 ## Contact Information
 
 📧 **Email:**  
-shiv.sinha@iitgn.ac.in
+shivshankar.1649@gmail.com  or  shiv.sinha@iitgn.ac.in
 
-📍 **Office Address:**  
+📍 **Laboratory Address:**  
 Smart Power Electronics Laboratory  
 Department of Electrical Engineering  
 Indian Institute of Technology Gandhinagar   
-Gujarat - 382055  
+Gujarat - 382355  
 India
 
 ☎️ **Phone:**  
-+91-XXXXXXXXXX
++91-9801766656
 
 🕒 **Availability:**  
-Monday – Friday  
-10:00 AM – 6:00 PM IST
+Monday – Saturday  
+10:00 AM – 8:00 PM IST
 
 ---
 
-## Collaboration & Research Interests
-
-I am particularly interested in collaborative research involving:
-
-- AI/ML for Battery Health Estimation
-- Fast Charging Optimization
-- Physics-informed Machine Learning
-- Digital Twin for Batteries
-- Remaining Useful Life (RUL) Prediction
-- EV Battery Safety and Diagnostics
-- Electrochemical Modeling
-
-If your work aligns with these domains, feel free to reach out.
-
----
