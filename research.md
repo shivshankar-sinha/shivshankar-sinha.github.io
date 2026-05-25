@@ -102,6 +102,25 @@ author_profile: false
 <div class="research-section">
 
     <div class="research-text">
+        <h2>Li-ion Battery Electrothermal Model</h2>
+
+        <ul>
+            <li>Machine learning for battery analytics</li>
+            <li>Support vector regression based estimation</li>
+            <li>Feature engineering and optimization</li>
+            <li>Embedded implementation for real-time systems</li>
+        </ul>
+    </div>
+
+    <div class="research-image">
+        <img src="https://shivshankar-sinha.github.io/images/mtech.jpg">
+    </div>
+
+</div>
+
+<div class="research-section">
+
+    <div class="research-text">
         <h2>AI & Data-Driven Energy Systems</h2>
 
         <ul>
