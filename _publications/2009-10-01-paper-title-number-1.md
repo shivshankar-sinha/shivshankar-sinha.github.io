@@ -5,5 +5,5 @@ category: manuscripts
 permalink: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10638771'
 excerpt: '**Overview:** This paper involves the developement of a coupled electrothermal model, where a novel thres-state thermal model is proposed to capture battery thermal dynamics in high current applications.'
 date: 2024-08-19
-venue: <p style="color: blue;">'IEEE Transactions on Consumer Electronics'
+venue: 'IEEE Transactions on Consumer Electronics'
 ---
