@@ -64,7 +64,7 @@ author_profile: false
 <div class="research-section">
 
     <div class="research-text">
-        <h2>Electric Vehicle Energy Storage Systems</h2>
+        <h2>What all instruments I use?</h2>
 
         <ul>
             <li>Hybrid energy storage system modelling</li>
@@ -75,7 +75,7 @@ author_profile: false
     </div>
 
     <div class="research-image">
-        <img src="https://picsum.photos/500/320?random=2">
+        <img src="https://shivshankar-sinha.github.io/images/setup.jpg">
     </div>
 
 </div>
