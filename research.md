@@ -94,7 +94,7 @@ author_profile: false
     </div>
 
     <div class="research-image">
-        <img src="https://shivshankar-sinha.github.io/images/Framework.jpg">
+        <img src="https://shivshankar-sinha.github.io/images/Obj1.jpg">
     </div>
 
 </div>
