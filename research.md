@@ -46,10 +46,11 @@ author_profile: false
         <h2>Overview: How do I conduct my research?</h2>
 
         <ul>
-            <li>Study signature behaviors of various degradation mechanisms</li>
-            <li>Identify a target: One perticular degradation</li>
-            <li>Determine the detection approach using electrical parameters</li>
-            <li>Mitigation of degradation through novel charging strategies</li>
+            <li>Study: Signature behaviors of various degradation mechanisms</li>
+            <li>Identify a target: One particular degradation</li>
+            <li>Determination: Detection approach using electrical parameters</li>
+            <li>Development: Health-aware charging strategy</li>
+            <li><b>Outcome:</b> Mitigation of targeted degradation mechanism</li>
         </ul>
     </div>
 
