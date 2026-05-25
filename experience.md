@@ -24,15 +24,15 @@ Jan 2023 – Present
 <ul style="margin-top: 15px; line-height: 1.9;">
 
 <li>
-Serve as a <b>Teaching Assistant</b> for core and advanced courses including Electric Vehicle Technology, Smart Renewable Energy Systems, and Advanced Transportation Electrification Technology.
+Serving as a <b>Teaching Assistant</b> for core and advanced courses, including Electric Vehicle Technology, Smart Renewable Energy Systems, and Advanced Transportation Electrification Technology.
 </li>
 
 <li>
-Act as a <b>Project Assistant</b> for mentoring and guiding the undergraduate students in their research projects.
+<b>Project Mentorship</b> for guiding the undergraduate and postgraduate engineering students in their research projects.
 </li>
 
 <li>
-Selected as a <b>Graduate Teaching Fellow (GTF)</b> for Power Electronics course (Aug 2024 – Nov 2024), involving independent lecture delivery, tutorial design, assessment preparation, and laboratory demonstrations.
+Selected as a <b>Graduate Teaching Fellow (GTF)</b> for Power Electronics course (Aug 2024 – Nov 2024), involving independent lecture delivery, tutorial design, assessment preparation, and laboratory demonstrations for 3rd year undergraduate students.
 </li>
 
 </ul>
@@ -44,7 +44,7 @@ Selected as a <b>Graduate Teaching Fellow (GTF)</b> for Power Electronics course
 <div style="margin-top: 40px; margin-bottom: 45px;">
 
 <h2 style="margin-bottom: 5px;">
-Teaching Assistant & Departmental Library In-charge
+Teaching Assistant & Departmental Library Student In-charge
 </h2>
 
 <p style="font-size: 1.05rem; margin-bottom: 15px;">
@@ -56,11 +56,11 @@ Sep 2020 – May 2022
 <ul style="line-height: 1.9;">
 
 <li>
-Served as a <b>Teaching Assistant</b>, contributing to: (a) laboratory courses in Power Electronics, Control Systems, Measurement, and Microprocessors & Microcontrollers; and (b) theoretical course in Optimization Methods for Engineering.
+Served as a <b>Teaching Assistant</b>, contributing to: (a) laboratory courses: Power Electronics, Control Systems, Measurement, and Microprocessors & Microcontrollers; and (b) theoretical course: Optimization Methods for Engineering.
 </li>
 
 <li>
-My responsibilities included teaching assigned topics to bachelor's students, demonstrating complete experiments, and preparing question papers & assignments.
+Responsibilities were teaching assigned topics to 2nd year bachelor's students, demonstrating complete experiments, and preparing question papers & assignments.
 </li>
 
 <li>
