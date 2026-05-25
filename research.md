@@ -94,7 +94,7 @@ author_profile: false
     </div>
 
     <div class="research-image">
-        <img src="https://picsum.photos/500/320?random=3">
+        <img src="https://shivshankar-sinha.github.io/images/Framework.jpg">
     </div>
 
 </div>
