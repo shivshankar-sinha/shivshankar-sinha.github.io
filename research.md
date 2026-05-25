@@ -121,6 +121,27 @@ author_profile: false
 <div class="research-section">
 
     <div class="research-text">
+        <h2>Hybrid Energy Storage System for EVs</h2>
+
+        <ul>
+            <li>Machine learning for battery analytics</li>
+            <li>Support vector regression based estimation</li>
+            <li>Feature engineering and optimization</li>
+            <li>Embedded implementation for real-time systems</li>
+        </ul>
+    </div>
+
+    <div class="research-image">
+        <img src="https://shivshankar-sinha.github.io/images/hess.jpg">
+    </div>
+
+</div>
+
+</div>
+
+<div class="research-section">
+
+    <div class="research-text">
         <h2>AI & Data-Driven Energy Systems</h2>
 
         <ul>
