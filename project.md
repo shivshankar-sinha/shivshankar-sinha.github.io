@@ -11,7 +11,7 @@ author_profile: true
 
 <div style="margin-bottom: 45px;">
 
-<h2 style="margin-bottom: 5px;">
+<h2 style="margin-bottom: 5px;"> 
 Ongoing Project
 </h2>
 
