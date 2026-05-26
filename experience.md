@@ -2,7 +2,7 @@
 title: "Experience"
 permalink: /experience/
 layout: single
-author_profile: false
+author_profile: true
 ---
 
 
