@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Shiv's Homepage"
 title_separator          : "-"
-name                     : &name "Shiv Shankar Sinha"
+name                     : &name "Shiv Shankar Sinha" 
 description              : &description "Shiv Shankar Sinha's academic profile"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://shivshankar-sinha.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
