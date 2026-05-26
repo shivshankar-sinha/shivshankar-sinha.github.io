@@ -2,7 +2,7 @@
 layout: single
 title: "Academic Background"
 permalink: /education/
-author_profile: false
+author_profile: true
 ---
 
 <section id="education">
