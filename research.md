@@ -64,7 +64,7 @@ author_profile: false
 <div class="research-section">
 
     <div class="research-text">
-        <h2>What all instruments I use?</h2>
+        <h2>What all instruments do I use presently?</h2>
 
         <ul>
             <li>Hybrid energy storage system modelling</li>
