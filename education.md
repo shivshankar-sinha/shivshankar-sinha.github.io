@@ -20,7 +20,7 @@ author_profile: true
 
     <ul>
       <li>Present CPI: <strong>9.88/10</strong></li>
-      <li>Research Focus: Lithium-ion batteries; Energy storage devices; Battery degradation</li>
+      <li>Research Focus: Lithium-ion batteries; Battery degradation; Health-aware charging strategy</li>
     </ul>
   </div>
 
@@ -37,7 +37,7 @@ author_profile: true
 
     <ul>
       <li>Obtained CGPA: <strong>9.64/10</strong></li>
-      <li>Highlight: Highest CGPA holder – EIE-2022 Batch</li> 
+      <li><b>Highlight:</b> Highest CGPA holder – EIE-2022 entire batch; Started the research journey in the field of "Energy Storage Devices"</li> 
     </ul>
   </div>
 
@@ -54,7 +54,7 @@ author_profile: true
 
     <ul>
       <li>Obtained CGPA: <strong>7.91/10</strong></li>
-      <li>Highlight: Organization of 'Techno-tech Fests'; Winner of inter-department sports tournament</li>
+      <li><b>Highlight:</b> Organization of 'Techno-tech Fests'; Winner of inter-department sports tournament</li>
     </ul>
   </div>
 
