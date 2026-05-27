@@ -149,7 +149,7 @@ author_profile: false
             <li>Support vector regression based estimation</li>
             <li>Feature engineering and optimization</li>
             <li>Embedded implementation for real-time systems</li>
-        </ul>
+        </ul> 
     </div>
 
     <div class="research-image">
