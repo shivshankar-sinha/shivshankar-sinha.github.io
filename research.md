@@ -67,10 +67,10 @@ author_profile: false
         <h2>What all instruments do I use presently?</h2>
 
         <ul>
-            <li>Hybrid energy storage system modelling</li>
-            <li>NMC and LTO battery integration</li>
-            <li>Drive cycle analysis using MATLAB/Simulink</li>
-            <li>Performance optimization of EV battery packs</li>
+            <li>Battery testing system: A Progrmmable source and load to cycler the battery with desired current profile</li>
+            <li>Climate chamber: To maintain a controlled battery cycling environment: Humidity and Temperature</li>
+            <li>Electrochemical impedance Spectroscopy: To characterize the battery</li>
+            <li>Different chemistries of lithium-ion batteries: LFP, NMC, NCA, LCO, and LTO</li>
         </ul>
     </div>
 
@@ -83,13 +83,14 @@ author_profile: false
 <div class="research-section">
 
     <div class="research-text">
-        <h2>Thermal Runaway & Safety Analysis</h2>
+        <h2>Lithium plating-aware charging strategy</h2>
 
         <ul>
-            <li>Early thermal runaway detection strategies</li>
-            <li>Battery safety precursor analysis</li>
-            <li>Electrothermal ageing modelling</li>
-            <li>Fault diagnosis in lithium-ion batteries</li>
+            <li>Signature impact of plating on battery impedance profile is studied</li>
+            <li>Lithiim plating onset voltage is identified using impedance-based detection</li>
+            <li>A MSCC charging profile is developed with optimized step currents through Taguchi method</li>
+            <li>Step transition thresholds are made function of operating conditions with plating onset voltage tracking</li>
+            <li>This MSCC profile modifies itself and supresses the occurence of lithium plating in battery</li>
         </ul>
     </div>
 
@@ -102,7 +103,7 @@ author_profile: false
 <div class="research-section">
 
     <div class="research-text">
-        <h2>Li-ion Battery Electrothermal Model</h2>
+        <h2>Lithium-ion Battery Electrothermal Model</h2>
 
         <ul>
             <li>Machine learning for battery analytics</li>
