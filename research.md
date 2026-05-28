@@ -106,10 +106,11 @@ author_profile: false
         <h2>Lithium-ion Battery Electrothermal Model</h2>
 
         <ul>
-            <li>Machine learning for battery analytics</li>
-            <li>Support vector regression based estimation</li>
-            <li>Feature engineering and optimization</li>
-            <li>Embedded implementation for real-time systems</li>
+            <li>A novel 3-state lumped thermal model is developed</li>
+            <li>Variation of battery internal thermal resistance is studied</li>
+            <li>Axial heat transfer is integrated along with radial heat transfer</li>
+            <li>Tab temperature serves as the third state along with core and surface temperatures</li>
+            <li>At high current applications, developed model enhances accuracy of core temperature prediction</li> 
         </ul>
     </div>
 
