@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a 4th year PhD student in the department of Electrical Engineering at Indian Institude of Technology Gandhinagar.
+I am a 4th year PhD student in the Department of Electrical Engineering at Indian Institute of Technology Gandhinagar.
 
 🔬 **My research interests:** Lithium-ion batteries; Energy storage devices; Electric vehicle technologies.  
 
-📚 I am currently working towards my 'PhD Thesis' in the field of **'Performance Optimization of Lithium-ion Batteries (LIBs)'**, where I am focusing on life extension of LIBs. 
+📚 I am currently working towards my 'PhD Thesis' in the field of **'Performance Optimization of Lithium-ion Batteries (LIBs),'** where I am focusing on life extension of LIBs. 
 
 🎯 I am keen to dive deeper and am driven to contribute to the advancement of next-generation energy storage technologies while gaining extensive hands-on research experience in this field.
 
