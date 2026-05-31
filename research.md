@@ -110,7 +110,7 @@ author_profile: false
             <li>Variation of battery internal thermal resistance is studied</li>
             <li>Axial heat transfer is integrated along with radial heat transfer</li>
             <li>Tab temperature serves as the third state along with core and surface temperatures</li>
-            <li>At high current applications, developed model enhances accuracy of core temperature prediction by **14%**</li> 
+            <li>At high current applications, developed model enhances accuracy of core temperature prediction by <b>14%</b></li> 
         </ul>
     </div>
 
