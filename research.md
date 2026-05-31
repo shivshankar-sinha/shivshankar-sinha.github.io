@@ -67,8 +67,8 @@ author_profile: false
         <h2>What all instruments do I use presently?</h2>
 
         <ul>
-            <li>Battery testing system: A Progrmmable source and load to cycler the battery with desired current profile</li>
-            <li>Climate chamber: To maintain a controlled battery cycling environment: Humidity and Temperature</li>
+            <li>Battery testing system: A Programmable source and load to cycler the battery with desired current profile</li>
+            <li>Climate chamber: To maintain a controlled battery cycling environment: Humidity and temperature</li>
             <li>Electrochemical impedance Spectroscopy: To characterize the battery</li>
             <li>Different chemistries of lithium-ion batteries: LFP, NMC, NCA, LCO, and LTO</li>
         </ul>
@@ -87,10 +87,10 @@ author_profile: false
 
         <ul>
             <li>Signature impact of plating on battery impedance profile is studied</li>
-            <li>Lithiim plating onset voltage is identified using impedance-based detection</li>
+            <li>Lithium plating onset voltage is identified using impedance-based detection</li>
             <li>A MSCC charging profile is developed with optimized step currents through Taguchi method</li>
             <li>Step transition thresholds are made function of operating conditions with plating onset voltage tracking</li>
-            <li>This MSCC profile modifies itself and supresses the occurence of lithium plating in battery</li>
+            <li>This MSCC profile modifies itself and supresses the occurence of lithium plating in LIBs</li>
         </ul>
     </div>
 
@@ -110,7 +110,7 @@ author_profile: false
             <li>Variation of battery internal thermal resistance is studied</li>
             <li>Axial heat transfer is integrated along with radial heat transfer</li>
             <li>Tab temperature serves as the third state along with core and surface temperatures</li>
-            <li>At high current applications, developed model enhances accuracy of core temperature prediction</li> 
+            <li>At high current applications, developed model enhances accuracy of core temperature prediction by **14%**</li> 
         </ul>
     </div>
 
