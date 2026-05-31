@@ -123,13 +123,14 @@ author_profile: false
 <div class="research-section">
 
     <div class="research-text">
-        <h2>Hybrid Energy Storage System for EVs</h2>
+        <h2>Hybrid Energy Storage System (HESS) for EVs</h2>
 
         <ul>
-            <li>Machine learning for battery analytics</li>
-            <li>Support vector regression based estimation</li>
-            <li>Feature engineering and optimization</li>
-            <li>Embedded implementation for real-time systems</li>
+            <li>Standalone battery driven vehicle owners experience: Range anxiety and shorter battery lifespan</li>
+            <li>Supercapacitors in HESS application offer high initial cost and low energy density</li>
+            <li>In this research, a energy-specific LIB (NMC) is hybridized with a power-specifoc LIB (LTO), following semi-active configuration</li>
+            <li>This proposed HESS demonstrates a <b>21.25%</b> and <b>15.94%</b> reduction in electrical and thermal stresses</li>
+            <li> We have achieved <b>54.46%</b> lifespan extension of NMC battery under standard electric vehicle driving profile</li>
         </ul>
     </div>
 
