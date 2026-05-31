@@ -152,7 +152,7 @@ author_profile: false
             <li>The developed framework needs only partial charging data and it is lightweight</li>
             <li>It follows a feature extraction approach: 'Slope and Time,' reducing high dimensional input space</li>
             <li>A support vector machine regression model is developed to map feature and target sets</li>
-            <li>The model has shown accuracy of <b>'<1%</b> with <b>letancy < 0.1ms</b></li>
+            <li>The model has shown accuracy of <b><1%</b> with <b>letancy < 0.1ms</b></li>
         </ul> 
     </div>
 
