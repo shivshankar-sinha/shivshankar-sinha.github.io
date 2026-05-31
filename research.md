@@ -148,10 +148,10 @@ author_profile: false
         <h2>Lightweight Online Battery SOH Estimation</h2>
 
         <ul>
-            <li>Machine learning for battery analytics</li>
-            <li>Support vector regression based estimation</li>
-            <li>Feature engineering and optimization</li>
-            <li>Embedded implementation for real-time systems</li>
+            <li>Existing online SOH estimation methods: Highly data-intensive or demand full cycling data</li>
+            <li>The developed framework needs only partial charging data and it is lightweight</li>
+            <li>It follows a feature extraction approach: 'Slope and Time,' reducing high dimensional input space</li>
+            <li>A support vector machine regression model is developed to map feature and target set</li>
         </ul> 
     </div>
 
