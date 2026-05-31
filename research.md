@@ -43,7 +43,7 @@ author_profile: false
 <div class="research-section">
 
     <div class="research-text">
-        <h2>Overview: How do I conduct my research?</h2>
+        <h2>Overview: How Do I Conduct My Research?</h2>
 
         <ul>
             <li>Study: Signature behaviors of various degradation mechanisms</li>
@@ -64,7 +64,7 @@ author_profile: false
 <div class="research-section">
 
     <div class="research-text">
-        <h2>What all instruments do I use presently?</h2>
+        <h2>What All Instruments Do I Use Presently?</h2>
 
         <ul>
             <li>Battery testing system: A Programmable source and load to cycler the battery with desired current profile</li>
@@ -83,7 +83,7 @@ author_profile: false
 <div class="research-section">
 
     <div class="research-text">
-        <h2>Lithium plating-aware charging strategy</h2>
+        <h2>Lithium Plating-aware Charging Strategy</h2>
 
         <ul>
             <li>Signature impact of plating on battery impedance profile is studied</li>
@@ -144,7 +144,7 @@ author_profile: false
 <div class="research-section">
 
     <div class="research-text">
-        <h2>AI & Data-Driven Energy Systems</h2>
+        <h2>Lightweight Online Battery SOH Estimation</h2>
 
         <ul>
             <li>Machine learning for battery analytics</li>
