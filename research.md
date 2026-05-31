@@ -110,7 +110,7 @@ author_profile: false
             <li>Variation of battery internal thermal resistance is studied</li>
             <li>Axial heat transfer is integrated along with radial heat transfer</li>
             <li>Tab temperature serves as the third state along with core and surface temperatures</li>
-            <li>At high current applications, developed model enhances accuracy of core temperature prediction by <b>14%</b></li> 
+            <li>In high current applications, developed model enhances accuracy of core temperature prediction by <b>14%</b></li> 
         </ul>
     </div>
 
@@ -127,9 +127,9 @@ author_profile: false
 
         <ul>
             <li>Standalone battery driven vehicle owners experience: Range anxiety and shorter battery lifespan</li>
-            <li>Supercapacitors in HESS application offer high initial cost and low energy density</li>
-            <li>In this research, a energy-specific LIB (NMC) is hybridized with a power-specifoc LIB (LTO), following semi-active configuration</li>
-            <li>This proposed HESS demonstrates a <b>21.25%</b> and <b>15.94%</b> reduction in electrical and thermal stresses</li>
+            <li>Supercapacitors for HESS application offer high initial cost and low energy density</li>
+            <li>In this research, a energy-specific LIB (NMC) is hybridized with a power-specific LIB (LTO), following semi-active configuration</li>
+            <li>This proposed HESS demonstrates a <b>21.25%</b> and <b>15.94%</b> reduction in electrical and thermal stresses, respectively</li>
             <li> We have achieved <b>54.46%</b> lifespan extension of NMC battery under standard electric vehicle driving profile</li>
         </ul>
     </div>
@@ -140,7 +140,6 @@ author_profile: false
 
 </div>
 
-</div>
 
 <div class="research-section">
 
@@ -149,9 +148,11 @@ author_profile: false
 
         <ul>
             <li>Existing online SOH estimation methods: Highly data-intensive or demand full cycling data</li>
+            <li>As SOH decreses, charging V-t plot shifts upward, reaching upper voltage faster</li>
             <li>The developed framework needs only partial charging data and it is lightweight</li>
             <li>It follows a feature extraction approach: 'Slope and Time,' reducing high dimensional input space</li>
-            <li>A support vector machine regression model is developed to map feature and target set</li>
+            <li>A support vector machine regression model is developed to map feature and target sets</li>
+            <li>The model has shown accuracy of <b>'<1%</b> with <b>letancy < 0.1ms</b></li>
         </ul> 
     </div>
 
