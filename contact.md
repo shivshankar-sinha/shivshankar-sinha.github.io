@@ -23,7 +23,7 @@ Feel free to contact me through the following channels.
 ## Contact Information
 
 📧 **Email:**  
-shivshankar.1649@gmail.com  or  
+shivshankar.1649@gmail.com   
 shiv.sinha@iitgn.ac.in
 
 📍 **Laboratory Address:**  
