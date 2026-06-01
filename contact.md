@@ -10,9 +10,9 @@ author_profile: true
 I am sincerely open to academic discussions, research collaborations, industrial projects, and opportunities related to:
 
 - Battery health-aware and fast charging technique
-- Battery management systems (BMSs)
+- Battery management systems (BMSs) functionalities
 - Battery internal state estimation
-- EV Battery safety and diagnostics
+- EV battery safety and diagnostics
 - Battery remaining useful life (RUL) prediction
 - Machine learning applications in energy storage
   
@@ -23,7 +23,8 @@ Feel free to contact me through the following channels.
 ## Contact Information
 
 📧 **Email:**  
-shivshankar.1649@gmail.com  or  shiv.sinha@iitgn.ac.in
+shivshankar.1649@gmail.com  or  
+shiv.sinha@iitgn.ac.in
 
 📍 **Laboratory Address:**  
 Smart Power Electronics Laboratory  
