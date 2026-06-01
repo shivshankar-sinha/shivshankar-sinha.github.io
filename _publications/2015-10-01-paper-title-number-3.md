@@ -3,7 +3,7 @@ title: "Development of an optimized adaptive multi-step constant current chargin
 collection: publications
 category: manuscripts
 permalink: 'https://www.sciencedirect.com/science/article/pii/S2352152X26020049'
-excerpt: '**Overview:** This paper proposes a charging strategy based on lithium plating onset detection technique; the strategy suppresses the occurrence of plating across wide battery operating conditions.'
+excerpt: '**Overview:** This paper proposes an adaptive charging strategy based on lithium plating onset detection technique; the strategy suppresses the occurrence of plating across wide battery operating conditions.'
 date: 2026-04-16
 venue: 'Journal of Energy Storage'
 ---
