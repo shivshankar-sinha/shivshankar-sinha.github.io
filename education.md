@@ -37,7 +37,7 @@ author_profile: true
 
     <ul>
       <li>Obtained CGPA: <strong>9.64/10</strong></li>
-      <li><b>Highlight:</b> Highest CGPA holder – EIE-2022 entire batch; Started the research journey in the field of "Energy Storage Devices"</li> 
+      <li><b>Highlight:</b> Graduated as the batch topper (highest CGPA) – EIE-2022 class; Started my research journey in the field of "Energy Storage Devices"</li> 
     </ul>
   </div>
 
