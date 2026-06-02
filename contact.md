@@ -9,8 +9,8 @@ author_profile: true
 
 I am sincerely open to academic discussions, research collaborations, industrial projects, and opportunities related to:
 
-- Battery health-aware and fast charging technique
-- Battery management systems (BMSs) functionalities
+- Battery health-aware and fast charging techniques
+- Battery management system (BMS) functionalities
 - Battery internal state estimation
 - EV battery safety and diagnostics
 - Battery remaining useful life (RUL) prediction
