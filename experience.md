@@ -1,5 +1,5 @@
 ---
-title: "Experience"
+title: "Academic Involvement"
 permalink: /experience/
 layout: single
 author_profile: true
