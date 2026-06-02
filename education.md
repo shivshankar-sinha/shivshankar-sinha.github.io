@@ -20,7 +20,7 @@ author_profile: true
 
     <ul>
       <li>Present CPI: <strong>9.88/10</strong></li>
-      <li>Research Focus: Lithium-ion batteries; Battery degradation; Health-aware charging strategy</li>
+      <li>Research focus: Lithium-ion batteries; Battery degradation; Health-aware charging strategy</li>
     </ul>
   </div>
 
