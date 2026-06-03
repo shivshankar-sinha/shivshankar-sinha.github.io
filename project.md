@@ -51,18 +51,22 @@ Completed Projects
 
 <li>
 To realize the practicality of limited data and develop a lightweight battery state of health estimation technique. 
+<i>(Supervisor: Prof. Pallavi Bharadwaj; 2025)</i>
 </li>
 
 <li>
  Developement of an improved hybrid energy storage system: To address the challenges of battery-supercapacitor hybridization.
+ <i>(Supervisor: Prof. Pallavi Bharadwaj; 2023)</i>
 </li>
 
 <li>
 Development of an experimentally-efficient methodology for the identification of entropy change in lithium-ion batteries.
+<i>(Supervisor: Prof. Munmun Khanra; 2021)</i>
 </li>
 
 <li>
-A review: Grey wolf optimization (GWO) technique; Comparison between GWO and particle swarm optimization (PSO) techniques. _(Supervisor: Prof. Nabamita Banerjee; 2018)_
+A review: Grey wolf optimization (GWO) technique; Comparison between GWO and particle swarm optimization (PSO) techniques. 
+<i>(Supervisor: Prof. Nabamita Banerjee; 2018)</i>
 </li>
 
 </ul>
