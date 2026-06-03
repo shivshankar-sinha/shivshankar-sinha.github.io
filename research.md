@@ -43,7 +43,7 @@ author_profile: false
 <div class="research-section">
 
     <div class="research-text">
-        <h2>Overview: How Do I Conduct My Research?</h2>
+        <h2>Overview: How do I conduct my research?</h2>
 
         <ul>
             <li>Study: Signature behaviors of various degradation mechanisms</li>
@@ -64,7 +64,7 @@ author_profile: false
 <div class="research-section">
 
     <div class="research-text">
-        <h2>What All Instruments Do I Use Presently?</h2>
+        <h2>What all instruments do I Use presently?</h2>
 
         <ul>
             <li>Battery testing system: A Programmable source and load to cycler the battery with desired current profile</li>
@@ -83,7 +83,7 @@ author_profile: false
 <div class="research-section">
 
     <div class="research-text">
-        <h2>Lithium Plating-aware Charging Strategy</h2>
+        <h2>Lithium plating-aware charging strategy</h2>
 
         <ul>
             <li>Signature impact of plating on battery impedance profile is studied</li>
@@ -103,7 +103,7 @@ author_profile: false
 <div class="research-section">
 
     <div class="research-text">
-        <h2>Lithium-ion Battery Electrothermal Model</h2>
+        <h2>Lithium-ion battery electrothermal model</h2>
 
         <ul>
             <li>A novel 3-state lumped thermal model is developed</li>
@@ -123,7 +123,7 @@ author_profile: false
 <div class="research-section">
 
     <div class="research-text">
-        <h2>Hybrid Energy Storage System (HESS) for EVs</h2>
+        <h2>Hybrid Energy storage system (HESS) for EVs</h2>
 
         <ul>
             <li>Standalone battery driven vehicle owners experience: Range anxiety and shorter battery lifespan</li>
@@ -144,7 +144,7 @@ author_profile: false
 <div class="research-section">
 
     <div class="research-text">
-        <h2>Lightweight Online Battery SOH Estimation</h2>
+        <h2>Lightweight online battery SOH estimation</h2>
 
         <ul>
             <li>Existing online SOH estimation methods: Highly data-intensive or demand full cycling data</li>
