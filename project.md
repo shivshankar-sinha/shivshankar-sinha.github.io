@@ -51,7 +51,7 @@ Completed Projects
 
 <li>
 To realize the practicality of limited data and develop a lightweight battery state of health estimation technique. 
-<i>(Supervisor: Prof. Pallavi Bharadwaj; 2025)</i>
+<i>(Supervisor: Prof. S Rajendran; 2025)</i>
 </li>
 
 <li>
@@ -66,7 +66,7 @@ Development of an experimentally-efficient methodology for the identification of
 
 <li>
 A review: Grey wolf optimization (GWO) technique; Comparison between GWO and particle swarm optimization (PSO) techniques. 
-<i>(Supervisor: Prof. Nabamita Banerjee; 2018)</i>
+<i>(Supervisor: Prof. Nabanita Banerjee; 2018)</i>
 </li>
 
 </ul>
