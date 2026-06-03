@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Research Activity"
+title: "Key Studies"
 permalink: /research/
 author_profile: false
 ---
@@ -125,7 +125,7 @@ author_profile: false
 <div class="research-section">
 
     <div class="research-text">
-        <h2>Hybrid Energy storage system (HESS) for EVs</h2>
+        <h2>Hybrid energy storage system (HESS) for EVs</h2>
 
         <ul>
             <li>Standalone battery driven vehicle owners experience: Range anxiety and shorter battery lifespan</li>
