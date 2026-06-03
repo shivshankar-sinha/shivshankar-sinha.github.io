@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Key Studies"
+title: "Research Activities"
 permalink: /research/
 author_profile: false
 ---
