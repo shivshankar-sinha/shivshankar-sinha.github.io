@@ -64,7 +64,7 @@ author_profile: false
 <div class="research-section">
 
     <div class="research-text">
-        <h2>What all instruments do I Use presently?</h2>
+        <h2>What all instruments do I use presently?</h2>
 
         <ul>
             <li>Battery testing system: A Programmable source and load to cycler the battery with desired current profile</li>
@@ -91,6 +91,7 @@ author_profile: false
             <li>A MSCC charging profile is developed with optimized step currents through Taguchi method</li>
             <li>Step transition thresholds are made function of operating conditions with plating onset voltage tracking</li>
             <li>This MSCC profile modifies itself and supresses the occurence of lithium plating in LIBs</li>
+            </li><b>Published in:</b> <i>Journal of Energy Storage</i></li>
         </ul>
     </div>
 
@@ -110,7 +111,8 @@ author_profile: false
             <li>Variation of battery internal thermal resistance is studied</li>
             <li>Axial heat transfer is integrated along with radial heat transfer</li>
             <li>Tab temperature serves as the third state along with core and surface temperatures</li>
-            <li>In high current applications, developed model enhances accuracy of core temperature prediction by <b>14%</b></li> 
+            <li>In high current applications, developed model enhances accuracy of core temperature prediction by <b>14%</b></li>
+            </li><b>Published in:</b> <i>IEEE Transactions on Consumer Electronics</i></li>
         </ul>
     </div>
 
@@ -131,6 +133,7 @@ author_profile: false
             <li>In this research, a energy-specific LIB (NMC) is hybridized with a power-specific LIB (LTO), following semi-active configuration</li>
             <li>This proposed HESS demonstrates a <b>21.25%</b> and <b>15.94%</b> reduction in electrical and thermal stresses, respectively</li>
             <li> We have achieved <b>54.46%</b> lifespan extension of NMC battery under standard electric vehicle driving profile</li>
+            </li><b>Published in:</b> <i>IEEE Transactions on Industry Applications</i></li>
         </ul>
     </div>
 
@@ -153,6 +156,7 @@ author_profile: false
             <li>It follows a feature extraction approach: 'Slope and Time,' reducing high dimensional input space</li>
             <li>A support vector machine regression model is developed to map feature and target sets</li>
             <li>The model has shown accuracy of <b><1%</b> with <b>latency < 0.1ms</b></li>
+            </li><b>Published in:</b> <i>10th IEEE IPEC-2026 ECCE Conference</i></li>
         </ul> 
     </div>
 
