@@ -23,7 +23,7 @@ Ongoing Project
 <ul style="margin-top: 15px; line-height: 1.9;">
 
 <li>
-Mission for Advancement in High-impact Areas (MAHA) - EV under "Anusandhan National Research Foundation (ANRF)" project.
+Mission for Advancement in High-impact Areas (MAHA) - EV project under "Anusandhan National Research Foundation (ANRF)."
 </li>
 
 <li>
@@ -62,7 +62,7 @@ Development of an experimentally-efficient methodology for the identification of
 </li>
 
 <li>
-A review: Grey wolf optimization (GWO) technique; Comparison between GWO and particle swarm optimization (PSO) techniques.
+A review: Grey wolf optimization (GWO) technique; Comparison between GWO and particle swarm optimization (PSO) techniques. _(Supervisor: Prof. Nabamita Banerjee; 2018)_
 </li>
 
 </ul>
