@@ -90,7 +90,7 @@ author_profile: false
             <li>Lithium plating onset voltage is identified using impedance-based detection</li>
             <li>A MSCC charging profile is developed with optimized step currents through Taguchi method</li>
             <li>Step transition thresholds are made function of operating conditions with plating onset voltage tracking</li>
-            <li>This MSCC profile modifies itself and supresses the occurence of lithium plating in LIBs</li>
+            <li>This MSCC profile modifies itself and suppresses the occurrence of lithium plating in LIBs</li>
             <b>Published in:</b> <i>Journal of Energy Storage</i>
         </ul>
     </div>
@@ -151,7 +151,7 @@ author_profile: false
 
         <ul>
             <li>Existing online SOH estimation methods: Highly data-intensive or demand full cycling data</li>
-            <li>As SOH decreses, charging V-t plot shifts upward, reaching upper voltage faster</li>
+            <li>As SOH decreases, charging V-t plot shifts upward, reaching upper voltage faster</li>
             <li>The developed framework needs only partial charging data and it is lightweight</li>
             <li>It follows a feature extraction approach: 'Slope and Time,' reducing high dimensional input space</li>
             <li>A support vector machine regression model is developed to map feature and target sets</li>
